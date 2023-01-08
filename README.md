@@ -7,7 +7,7 @@ Delivery Together 애플리케이션을 통해 배달공구 서비스를 이용�
 
 - 유한호 [[YooHanHo](https://github.com/YooHanHo)]
 - 박주현 [[JOOHYUN0504](https://github.com/JOOHYUN0504)]
-- 오광훈 [[rhkdgns1205]
+- 오광훈 [[rhkdgns1205](https://github.com/rhkdgns1205)]
 
 
 ### 스크린샷
